@@ -4,9 +4,16 @@
 
 ## 项目
 
-- [Snapix](https://github.com/LuoYe17/Snapix) — 50 KB 的截图工具
-- [Pastix](https://github.com/LuoYe17/Pastix) — 40 KB 的剪贴板历史工具
+[![Snapix](https://img.shields.io/badge/-Snapix-444?style=flat-square)](https://github.com/LuoYe17/Snapix)
+![](https://img.shields.io/github/v/release/LuoYe17/Snapix?include_prereleases&label=&style=flat-square)
+![](https://img.shields.io/github/stars/LuoYe17/Snapix?label=%E2%98%85&style=flat-square)
+— Windows 截图工具
+
+[![Pastix](https://img.shields.io/badge/-Pastix-444?style=flat-square)](https://github.com/LuoYe17/Pastix)
+![](https://img.shields.io/github/v/release/LuoYe17/Pastix?include_prereleases&label=&style=flat-square)
+![](https://img.shields.io/github/stars/LuoYe17/Pastix?label=%E2%98%85&style=flat-square)
+— Windows 剪贴板历史
 
 ## 支持
 
-如果觉得有用：[爱发电主页](https://afdian.com/a/luoye17)
+[爱发电](https://afdian.com/a/luoye17)
